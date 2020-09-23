@@ -13,4 +13,8 @@ Phrase translation parameters score were computed from the co-occurrence of alig
 ### Run algorithm
 python3 phrasetableanalyzer.py
 
-
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
