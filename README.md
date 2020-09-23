@@ -10,10 +10,15 @@ Phrase translation parameters score were computed from the co-occurrence of alig
 </p>  
 <br>
 
-### Run algorithm
+### Input files
+```
+  phrasetable("phrase-table.KkRu.LM03.gdfand-2000","phrase-table.KkRu.LM03.srctotgt-12000","fileoutput-03.Kk-Ru.LM03.gdfand-srctotgt.12000.tsv")
 
 ```
-Running the code
+
+### Running codes
+
+```
   python3 phrasetableanalyzer.py
 
 ```
