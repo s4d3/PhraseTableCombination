@@ -6,7 +6,7 @@ Phrase translation parameters score were computed from the co-occurrence of alig
 
 <br>
 <p align="center">
-<img height="400" width="400" src="https://github.com/s4d3/PhraseTableCombination/blob/master/TheComparisonAlgorithm.png" />
+<img height="400" width="300" src="https://github.com/s4d3/PhraseTableCombination/blob/master/TheComparisonAlgorithm.png" />
 </p>  
 <br>
 
