@@ -10,4 +10,7 @@ Phrase translation parameters score were computed from the co-occurrence of alig
 </p>  
 <br>
 
-## Input
+### Run algorithm
+python3 phrasetableanalyzer.py
+
+
