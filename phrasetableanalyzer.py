@@ -17,9 +17,9 @@ def print_animation():
 
 def print_keterangan(hfout):
   hfout.write("Keterangan: \n")
-  hfout.write("    0 : value di file1 > value file 2 \n")
-  hfout.write("    1 : value di file1 < value file 2 \n")
-  hfout.write("    2 : value di file1 == value file 2 \n")
+  hfout.write("    0 : value in file1 > value in file2 \n")
+  hfout.write("    1 : value in file1 < value in file2 \n")
+  hfout.write("    2 : value in file1 == value in file2 \n")
 
 
 def countervalue(report,valuebase,value):
