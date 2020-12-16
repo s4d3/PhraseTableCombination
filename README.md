@@ -1,4 +1,4 @@
-This repository describes two of our works in Phrase Table Combination Based on Symmetrization of Word Alignment for Low-Resource Languages
+This repository describes our works in a research paper: Phrase Table Combination Based on Symmetrization of Word Alignment for Low-Resource Languages
 
 ## The comparison of phrase translation parameters score from two phrase tables
 We construct an algorithm to compare phrase translation parameter scores from two phrase tables. 
